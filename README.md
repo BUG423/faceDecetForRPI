@@ -1,1 +1,5 @@
-# faceDecetForRPI
+# 名称
+适用于树莓派的的人脸检测
+
+## Abstract
+直接run吧，真没啥好讲的
